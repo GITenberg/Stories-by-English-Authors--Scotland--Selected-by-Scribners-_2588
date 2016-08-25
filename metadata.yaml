@@ -1,5 +1,5 @@
 _repo: Stories-by-English-Authors--Scotland--Selected-by-Scribners-_2588
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Aytoun, William Edmondstoune
@@ -14,14 +14,14 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/William_Edmonstoune_Aytoun
   - agent_name: Crockett, S. R. (Samuel Rutherford)
     alias: Crockett, Samuel Rutherford
-    birthdate: &id001 1860
+    birthdate: 1860
     deathdate: 1914
     gutenberg_agent_id: '1590'
     url: http://www.gutenberg.org/2009/agents/1590
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Rutherford_Crockett
   - agent_name: Barrie, J. M. (James Matthew)
     alias: Barrie, James Matthew
-    birthdate: *id001
+    birthdate: 1860
     deathdate: 1937
     gutenberg_agent_id: '10'
     url: http://www.gutenberg.org/2009/agents/10
@@ -39,14 +39,14 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
   - agent_name: Maclaren, Ian
     alias: Watson, John
-    birthdate: &id002 1850
+    birthdate: 1850
     deathdate: 1907
     gutenberg_agent_id: '2364'
     url: http://www.gutenberg.org/2009/agents/2364
     wikipedia: http://en.wikipedia.org/wiki/Ian_Maclaren
   - agent_name: Stevenson, Robert Louis
     alias: Stevenson, R. L. (Robert Louis)
-    birthdate: *id002
+    birthdate: 1850
     deathdate: 1894
     gutenberg_agent_id: '35'
     url: http://www.gutenberg.org/2009/agents/35
