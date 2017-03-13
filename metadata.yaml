@@ -1,5 +1,5 @@
 _repo: Stories-by-English-Authors--Scotland--Selected-by-Scribners-_2588
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Aytoun, William Edmondstoune
@@ -51,7 +51,12 @@ contributor:
     gutenberg_agent_id: '35'
     url: http://www.gutenberg.org/2009/agents/35
     wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2588#Stories-by-English-Authors--Scotland--Selected-by-Scribners-
 gutenberg_bookshelf: Short Stories
 gutenberg_issued: '2006-04-04'
 gutenberg_type: Text
